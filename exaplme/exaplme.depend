@@ -1,0 +1,316 @@
+# depslib dependency file v1.0
+1482028573 source:c:\users\nthucs\desktop\exaplme\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1482028573 c:\users\nthucs\desktop\exaplme\console_draw3.h
+
+1482028573 source:c:\users\nthucs\desktop\exaplme\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1482028573 c:\users\nthucs\desktop\exaplme\kb_input2.h
+	<windows.h>
+
+1482028573 c:\users\nthucs\desktop\exaplme\font.h
+
+1482028573 source:c:\users\nthucs\desktop\exaplme\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1482028573 c:\users\nthucs\desktop\exaplme\image.h
+
+1482028573 source:c:\users\nthucs\desktop\exaplme\kb_input2.c
+	"kb_input2.h"
+
+1482030137 source:c:\users\nthucs\desktop\exaplme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+
+1482034240 source:c:\users\joe04_jmmq64o\desktop\team15\exaplme\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1482034240 c:\users\joe04_jmmq64o\desktop\team15\exaplme\console_draw3.h
+
+1482034240 source:c:\users\joe04_jmmq64o\desktop\team15\exaplme\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1482034240 c:\users\joe04_jmmq64o\desktop\team15\exaplme\kb_input2.h
+	<windows.h>
+
+1482034240 c:\users\joe04_jmmq64o\desktop\team15\exaplme\font.h
+
+1482034240 source:c:\users\joe04_jmmq64o\desktop\team15\exaplme\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1482034240 c:\users\joe04_jmmq64o\desktop\team15\exaplme\image.h
+
+1482034240 source:c:\users\joe04_jmmq64o\desktop\team15\exaplme\kb_input2.c
+	"kb_input2.h"
+
+1482041906 source:c:\users\joe04_jmmq64o\desktop\team15\exaplme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+	"intro.h"
+	"option.h"
+
+1482035148 c:\users\joe04_jmmq64o\desktop\team15\exaplme\intro.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+
+1482043334 c:\users\joe04_jmmq64o\desktop\team15\exaplme\option.h
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+	"takeoff.h"
+
+1482044657 source:c:\users\joe04_jmmq64o\desktop\team15\exaplme\takeoff.c
+	"takeoff.h"
+
+1482044703 c:\users\joe04_jmmq64o\desktop\team15\exaplme\takeoff.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+	<memory.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+
+1482045419 source:c:\users\nthucs\desktop\team15\exaplme\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1482045419 c:\users\nthucs\desktop\team15\exaplme\console_draw3.h
+
+1482045419 source:c:\users\nthucs\desktop\team15\exaplme\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1482045419 c:\users\nthucs\desktop\team15\exaplme\kb_input2.h
+	<windows.h>
+
+1482045419 c:\users\nthucs\desktop\team15\exaplme\font.h
+
+1482045419 source:c:\users\nthucs\desktop\team15\exaplme\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1482045419 c:\users\nthucs\desktop\team15\exaplme\image.h
+
+1482045419 source:c:\users\nthucs\desktop\team15\exaplme\kb_input2.c
+	"kb_input2.h"
+
+1482045875 source:c:\users\nthucs\desktop\team15\exaplme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+	"intro.h"
+	"option.h"
+
+1482046006 c:\users\nthucs\desktop\team15\exaplme\intro.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+
+1482045826 c:\users\nthucs\desktop\team15\exaplme\option.h
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+	"takeoff.h"
+
+1482051984 c:\users\nthucs\desktop\team15\exaplme\takeoff.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+	<memory.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+
+1482052140 source:c:\users\nthucs\desktop\team15\exaplme\takeoff.c
+	"takeoff.h"
+
+1482052593 source:c:\users\joe04_jmmq64o\desktop\exaplme\exaplme\console_draw3.c
+	<windows.h>
+	<string.h>
+	"console_draw3.h"
+
+1482052593 c:\users\joe04_jmmq64o\desktop\exaplme\exaplme\console_draw3.h
+
+1482052594 source:c:\users\joe04_jmmq64o\desktop\exaplme\exaplme\font.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"font.h"
+
+1482052594 c:\users\joe04_jmmq64o\desktop\exaplme\exaplme\kb_input2.h
+	<windows.h>
+
+1482052594 c:\users\joe04_jmmq64o\desktop\exaplme\exaplme\font.h
+
+1482052594 source:c:\users\joe04_jmmq64o\desktop\exaplme\exaplme\image.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+
+1482052594 c:\users\joe04_jmmq64o\desktop\exaplme\exaplme\image.h
+
+1482052594 source:c:\users\joe04_jmmq64o\desktop\exaplme\exaplme\kb_input2.c
+	"kb_input2.h"
+
+1482137061 source:c:\users\joe04_jmmq64o\desktop\exaplme\exaplme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+	"intro.h"
+	"option.h"
+
+1482136436 c:\users\joe04_jmmq64o\desktop\exaplme\exaplme\intro.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<mmsystem.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+
+1482138592 c:\users\joe04_jmmq64o\desktop\exaplme\exaplme\option.h
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+	"takeoff.h"
+	"audio.h"
+
+1482135113 c:\users\joe04_jmmq64o\desktop\exaplme\exaplme\takeoff.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<windows.h>
+	<mmsystem.h>
+	<time.h>
+	<memory.h>
+	"console_draw3.h"
+	"kb_input2.h"
+	"image.h"
+	"font.h"
+	"audio.h"
+
+1482140078 source:c:\users\joe04_jmmq64o\desktop\exaplme\exaplme\takeoff.c
+	"takeoff.h"
+
+1482039840 c:\users\joe04_jmmq64o\desktop\exaplme\exaplme\audio.h
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+
+1482039840 source:c:\users\joe04_jmmq64o\desktop\exaplme\exaplme\audio.c
+	"audio.h"
+
