@@ -121,35 +121,32 @@ void menu()
                         break;
                     }
                     if(menuorder[4]){
-
-
-
+                        //display fighter picture
+                        clearScreen();
+                        Sleep(10);
+                        putStringLarge(large_font,0,10,"Developed by Team 15 in NTHU",10);
+                        putStringLarge(large_font,0,16,"CS18 Bill Chou",9);
+                        putStringLarge(large_font,0,22,"DMS19 Kuenway",12);
+                        putStringLarge(large_font,0,28,"DMS19 Tammy",10);
+                        
+                        drawCmdWindow();
+                        Sleep(1500);
+                        clearScreen();
+                        putStringLarge(large_font,0,10,"Congradulations !!!",10);
+                        putStringLarge(large_font,0,16,"You Get a Death Star!!",10);
+                        
+                        //death pic !!!
+                        deadth_star=1;
+                        drawCmdWindow();
+                        Sleep(1500);
+                        clearScreen();
+                        
+                        break;
                     }
                 }
-            case VK_S:
-                {
-                    //display fighter picture
-                    clearScreen();
-                    Sleep(10);
-                    putStringLarge(large_font,0,10,"Developed by Team 15 in NTHU",10);
-                    putStringLarge(large_font,0,16,"CS18 Bill Chou",9);
-                    putStringLarge(large_font,0,22,"DMS19 Kuenway",12);
-                    putStringLarge(large_font,0,28,"DMS19 Tammy",10);
-
-                    drawCmdWindow();
-                    Sleep(1500);
-                    clearScreen();
-                    putStringLarge(large_font,0,10,"Congradulations !!!",10);
-                    putStringLarge(large_font,0,16,"You Get a Death Star!!",10);
-
-                    //death pic !!!
-                    deadth_star=1;
-                    drawCmdWindow();
-                    Sleep(1500);
-                    clearScreen();
-                }
-
-            }
+           
+                    
+              
             if(menuorder[0]) putStringLarge(large_font, 10, 5, "start", 15);
             else putStringLarge(large_font, 10, 5, "start", 11);
             if(menuorder[1]) putStringLarge(large_font, 10, 11, "option", 15);
